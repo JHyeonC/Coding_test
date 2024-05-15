@@ -29,7 +29,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Twelve {
+public class Q12 {
 
     public String solution(String input){
         List<String> tokenarr = tokenizer(input);
@@ -94,7 +94,7 @@ public class Twelve {
     }
 
     public static void main(String[] args){
-        Twelve t = new Twelve();
+        Q12 t = new Q12();
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
         String input = sc.next();

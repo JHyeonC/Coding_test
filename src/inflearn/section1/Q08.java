@@ -10,7 +10,7 @@ package inflearn.section1;
 
 import java.util.Scanner;
 
-public class Eight {
+public class Q08 {
 
     public static String solution(String input){
         String answer = "YES";

@@ -11,7 +11,7 @@ package inflearn.section1;
 
 import java.util.Scanner;
 
-public class Eleven {
+public class Q11 {
 
     public static String solution(String input){
         String answer = "";

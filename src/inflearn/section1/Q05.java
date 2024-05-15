@@ -7,7 +7,7 @@ package inflearn.section1;
 
 import java.util.Scanner;
 
-public class Five {
+public class Q05 {
 
     public static String solution(String value){
         String[] array = new String[value.length()];

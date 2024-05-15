@@ -8,7 +8,7 @@ package inflearn.section1;
 
 import java.util.Scanner;
 
-public class One {
+public class Q01 {
 
     public static int solution(String input1, String input2){
         String lowerinput1 = input1.toLowerCase();

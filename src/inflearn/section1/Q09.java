@@ -9,7 +9,7 @@ package inflearn.section1;
 
 import java.util.Scanner;
 
-public class Nine {
+public class Q09 {
 
     public static int solution(String input){
         String answer = "";

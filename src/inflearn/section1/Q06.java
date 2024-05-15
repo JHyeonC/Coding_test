@@ -8,7 +8,7 @@ package inflearn.section1;
 
 import java.util.Scanner;
 
-public class Six {
+public class Q06 {
 
     public static String solution(String input){
         char[] midarr = input.toCharArray();

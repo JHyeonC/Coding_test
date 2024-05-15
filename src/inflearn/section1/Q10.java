@@ -8,7 +8,7 @@ package inflearn.section1;
 
 import java.util.Scanner;
 
-public class Ten {
+public class Q10 {
 
     //TODO 다시풀기
 

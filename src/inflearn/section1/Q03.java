@@ -10,7 +10,7 @@ package inflearn.section1;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Three {
+public class Q03 {
 
     public static String solution(String sentence){
         String[] split = sentence.split(" ");

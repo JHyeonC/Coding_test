@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Four {
+public class Q04 {
 
     public static String solution(List<String> words){
         String answer = "";

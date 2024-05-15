@@ -9,7 +9,7 @@ package inflearn.section1;
 
 import java.util.Scanner;
 
-public class Seven {
+public class Q07 {
 
     public static String solution(String input){
         input = input.toLowerCase();

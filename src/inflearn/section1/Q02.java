@@ -7,7 +7,7 @@ package inflearn.section1;
 
 import java.util.Scanner;
 
-public class Two {
+public class Q02 {
 
     public static String solution(String input){
         StringBuilder sb = new StringBuilder();
