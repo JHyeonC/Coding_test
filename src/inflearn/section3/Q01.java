@@ -9,6 +9,7 @@ package inflearn.section3;
 //각 리스트의 원소는 int형 변수의 크기를 넘지 않습니다.
 //오름차순으로 정렬된 배열을 출력합니다.
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -28,6 +29,19 @@ public class Q01 {
 
         return answer;
     }
+
+//    public ArrayList<Integer> solution(int n, int m, int[] a, int[] b){
+//        ArrayList<Integer> answer = new ArrayList<>();
+//        int p1=0, p2=0;
+//        while(p1<n && p2<m){
+//            if(a[p1]<b[p2]) answer.add(a[p1++]);
+//            else answer.add(a[p2++]);
+//        }
+//        while(p1<n) answer.add(a[p1++]);
+//        while(p2<m) answer.add(a[p2++]);
+//
+//        return answer;
+//    }
 
     public static void main(String[] args){
         Q01 t = new Q01();
