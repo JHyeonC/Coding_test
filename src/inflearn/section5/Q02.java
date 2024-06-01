@@ -15,7 +15,6 @@ public class Q02 {
         Stack<Character> stack = new Stack<>();
         for(char x : input.toCharArray()) {
             if(x == ')'){
-                System.out.print("x = " + x);
                 while(stack.pop() != '(');
             }
             else stack.push(x);
